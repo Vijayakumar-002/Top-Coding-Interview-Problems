@@ -1,3 +1,5 @@
+//print the particular element using row and col
+/**
 class Solution {
     public int pascalTriangleI(int r, int c) {
           return pt(r-1,c-1);
